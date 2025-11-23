@@ -6,11 +6,25 @@
 
 ---
 
+## 🚀 Live Demo & Video
+
+<div align="center">
+
+### **[🌐 Live Application](https://scratch-mit-clone-juspay.vercel.app/)**
+
+### **[📹 Watch Demo Video](https://youtu.be/5Tvk1W2_Uo8?si=GMy5FrNSdiCUKXTz)**
+
+[![Scratch Visual Editor Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/5Tvk1W2_Uo8?si=GMy5FrNSdiCUKXTz)
+[![Live on Vercel](https://img.shields.io/badge/Live_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://scratch-mit-clone-juspay.vercel.app/)
+
+</div>
+
+---
+
 ## Executive Summary
 
 I built a visual programming editor inspired by MIT Scratch, implementing drag-and-drop block programming with real-time sprite animation and collision detection. The application demonstrates advanced React patterns, state management, and interactive UI development without relying on heavy external libraries.
 
-**Live Demo**: Run `npm start` in the project directory  
 **Tech Stack**: React 17, Tailwind CSS, Webpack 5  
 **Lines of Code**: ~800 (excluding config)
 
